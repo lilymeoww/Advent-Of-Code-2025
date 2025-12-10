@@ -14,7 +14,7 @@ def simulateTachyonBeam(startRow, startColumn, manifold):
     global iterationCounter
     
     iterationCounter += 1
-    print(iterationCounter)
+    # print(iterationCounter)
         
     currentRow = startRow + 1
 
